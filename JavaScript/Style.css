@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(200,200,200);
+}
+h1{
+    color:black;
+    font:bolder 24pt times;
+    text-align: center;
+    margin-top: 30px;
+    height: 35px;
+    width: 280px;
+}
+input#e1,#e2{
+    color:black;
+    font:bolder 16pt times;
+    text-align: start;
+    margin-top: 5px;
+    height: 35px;
+    width: 280px;
+}
+input#addition, #subtraction, #multiplication, #division{
+    color:black;
+    font:normal 16pt times;
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 15px;
+    height: 35px;
+    width: 135px;
+}
+div#equal{
+    color:black;
+    font:normal 16pt times;
+    text-align: start;
+    margin-top: 50px;
+}
+p#by{
+    color:black;
+    font:italic 16pt times;
+    text-align: end;
+    margin-top: 200px;
+}
